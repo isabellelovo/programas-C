@@ -1,2 +1,2 @@
-# Meus Exercícios com Linguagens!
- Pequenos programas e exercícios que realizei com linguagens de programação ao longo dos meus estudos.
+# Programas em C
+ Pequenos programas que desenvolvi nos meus estudos utilizando a linguagem C.
