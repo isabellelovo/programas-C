@@ -1,3 +1,5 @@
 # Programas em C
-<p>Coleção de programas que desenvolvi com a linguagem C durante meus estudos no 1º e 2º período na faculdade de S.I.</p>
-<p>→ Status: Concluído</p>
+![Status](https://img.shields.io/badge/Status-Concluído-darkgreen)
+
+> Coleção de programas curtos que desenvolvi na linguagem C durante minha formação acadêmica.
+>
